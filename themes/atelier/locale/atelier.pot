@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Atelier 1.0\n"
+"POT-Creation-Date: 2026-10-24 12:00+0200\n"
+"PO-Revision-Date: 2026-10-24 12:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: gettext;ngettext\n"
+
+msgid "Object not found"
+msgstr ""
+
+msgid "Favorites list name (optional)"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Gallery archive"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "What are you looking for?"
+msgstr ""
+
+msgid "All news"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Terracotta"
+msgstr ""
+
+msgid "Forest"
+msgstr ""
+
+msgid "Ocean"
+msgstr ""
+
+msgid "Plum"
+msgstr ""
+
+msgid "Sand"
+msgstr ""
+
+msgid "Graphite"
+msgstr ""
+
+msgid "White"
+msgstr ""
+
+msgid "Read the story"
+msgstr ""
+
+msgid "What clients say"
+msgstr ""
+
+msgid "All references"
+msgstr ""
+
+msgid "From the blog"
+msgstr ""
+
+msgid "All stories"
+msgstr ""
+
+msgid "Portfolio"
+msgstr ""
+
+msgid "All albums"
+msgstr ""
+
+msgid "Similar images"
+msgstr ""
+
+msgid "Where it was taken"
+msgstr ""
+
+msgid "See the portfolio"
+msgstr ""
+
+msgid "About me"
+msgstr ""
+
+msgid "More about me"
+msgstr ""
+
+msgid "Previous Image"
+msgstr ""
+
+msgid "prev"
+msgstr ""
+
+msgid "Next Image"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "Image Info"
+msgstr ""
+
+msgid "View full size"
+msgstr ""
+
+msgid "Daily summary"
+msgstr ""
+
+msgid "Images with GPS coordinates"
+msgstr ""
+
+msgid "Items with descriptions"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Dark mode"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Archive View"
+msgstr ""
+
+msgid "My favorites"
+msgstr ""
+
+msgid "Image map"
+msgstr ""
+
+msgid "Password Required..."
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Latest images RSS"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "start slideshow"
+msgstr ""
+
+msgid "stop slideshow"
+msgstr ""
+
+msgid "thumbnails"
+msgstr ""
+
+msgid "Skip to content"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Breadcrumb"
+msgstr ""
+
+msgid "No Comments"
+msgstr ""
+
+msgid "The theme doesn't support colorbox option for googlemap plugin."
+msgstr ""
+
+msgid "Google Map"
+msgstr ""
+
+msgid "Filter images on this page"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Album is password protected"
+msgstr ""
+
+msgid "Enter the password you received from the photographer."
+msgstr ""
+
+msgid "Open album"
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+msgid "Enter your user name and password."
+msgstr ""
+
+msgid "No access? Write to me"
+msgstr ""
+
+msgid "Client gallery"
+msgstr ""
+
+msgid "Client area"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "%u min read"
+msgstr ""
+
+msgid "Other articles"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Clients"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "%s images with GPS coordinates. Zoom in to see single images, click a marker to open them."
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Images in view:"
+msgstr ""
+
+msgid "and %s more – zoom in"
+msgstr ""
+
+msgid "The map data could not be loaded."
+msgstr ""
+
+msgid "The map needs JavaScript."
+msgstr ""
+
+msgid "There are no images with GPS coordinates."
+msgstr ""
+
+msgid "User Registration"
+msgstr ""
+
+msgid "Sorry, no matches found. Try refining your search."
+msgstr ""
+
+msgid "Images (%s)"
+msgstr ""
+
+msgid "Albums (%s)"
+msgstr ""
+
+msgid "Albums (%1$s) &amp; Images (%2$s)"
+msgstr ""
+
+msgid "Articles (%s)"
+msgstr ""
+
+msgid "Pages (%s)"
+msgstr ""
+
+msgid "A modern blog and portfolio theme for photographers, built on Zenpage (news = blog with categories, pages, comments). Hero image, stories, masonry albums, image page with shooting data, similar images, map of all images, references, split login page, six colour schemes with light and dark mode (WCAG AA)."
+msgstr ""
+
+msgid "Built on the structure of the Nova theme. Developed in collaboration with Claude, an AI assistant by Anthropic."
+msgstr ""
+
+msgid "Custom accent colour"
+msgstr ""
+
+msgid "Colour choice"
+msgstr ""
+
+msgid "Click a square to select the colour scheme. The square shows the background and the accent colour (light variant; the dark variant is in the lower right corner). All text and button colours meet the WCAG AA contrast."
+msgstr ""
+
+msgid "Colour scheme (technical)"
+msgstr ""
+
+msgid "Every scheme has a light and a dark variant. All text and button colours meet the WCAG AA contrast."
+msgstr ""
+
+msgid "Used when the scheme \"Custom accent colour\" is selected."
+msgstr ""
+
+msgid "Contrast check"
+msgstr ""
+
+msgid "A colour that would be hard to read is not rejected: the nearest colour with a sufficient contrast is used instead (and a lighter variant for the dark mode)."
+msgstr ""
+
+msgid "Light / dark mode"
+msgstr ""
+
+msgid "According to the device"
+msgstr ""
+
+msgid "Always light"
+msgstr ""
+
+msgid "Always dark"
+msgstr ""
+
+msgid "The default for visitors who have not chosen yet."
+msgstr ""
+
+msgid "Light / dark toggle in the menu"
+msgstr ""
+
+msgid "Visitors can switch between the light and dark variant (they never choose the colours). Without the toggle everybody gets the default above."
+msgstr ""
+
+msgid "Home page: hero image"
+msgstr ""
+
+msgid "Random landscape image"
+msgstr ""
+
+msgid "Latest landscape image"
+msgstr ""
+
+msgid "Thumbnail of an album"
+msgstr ""
+
+msgid "The big image at the top. Random and latest are chosen from a cached list (random: 6 hours, latest: 1 hour), so the page stays fast."
+msgstr ""
+
+msgid "Hero album"
+msgstr ""
+
+msgid "Folder name of the album (e.g. weddings/2025) - used with \"Thumbnail of an album\"."
+msgstr ""
+
+msgid "Hero headline"
+msgstr ""
+
+msgid "Empty = the gallery title."
+msgstr ""
+
+msgid "Hero text"
+msgstr ""
+
+msgid "One sentence below the headline; it is also shown in the footer under the site name. Empty = nothing."
+msgstr ""
+
+msgid "Hero button text"
+msgstr ""
+
+msgid "Empty = \"See the portfolio\". The button leads to the album list."
+msgstr ""
+
+msgid "Stories on the home page"
+msgstr ""
+
+msgid "0 to 5 latest articles (one big, the others small). 0 = hide the section. Articles of the references category are not included."
+msgstr ""
+
+msgid "Portfolio on the home page"
+msgstr ""
+
+msgid "Show the Portfolio section (album tiles) on the home page. Untick to hide it."
+msgstr ""
+
+msgid "Blurred preview of protected albums"
+msgstr ""
+
+msgid "Albums with a password show a blurred version of their cover image with a lock instead of the plain lock picture. Only a tiny 24 px image is sent to visitors (a few colour blocks, no detail). Needs the nPG option \"lock image for protected albums\" to be on."
+msgstr ""
+
+msgid "Blur strength"
+msgstr ""
+
+msgid "Light blur (a hint of the image)"
+msgstr ""
+
+msgid "Medium blur"
+msgstr ""
+
+msgid "Strong blur (colours only)"
+msgstr ""
+
+msgid "The lighter the blur, the more of the cover photo can be recognised. Keep it strong for private client albums."
+msgstr ""
+
+msgid "Albums on the home page"
+msgstr ""
+
+msgid "Up to 4 album folders separated by commas. Empty = the first albums of the gallery."
+msgstr ""
+
+msgid "\"About me\" page"
+msgstr ""
+
+msgid "Titlelink of a Zenpage page (the address of the page without the domain), shown as the \"About me\" block on the home page. Empty = no block."
+msgstr ""
+
+msgid "References category"
+msgstr ""
+
+msgid "Titlelink of the news category with references. One article = one reference: the title is the name(s), the first image is the small image, the text is the quote. Empty = no references."
+msgstr ""
+
+msgid "References on the home page"
+msgstr ""
+
+msgid "Show a strip with the latest four references on the home page."
+msgstr ""
+
+msgid "Statistics and tag cloud on the home page"
+msgstr ""
+
+msgid "Numbers of images, albums, pages and news and a cloud of the most used tags at the bottom of the home page (cached for 6 hours)."
+msgstr ""
+
+msgid "Login page: welcome text"
+msgstr ""
+
+msgid "Empty = \"Enter the password you received from the photographer.\""
+msgstr ""
+
+msgid "Login page: help link text"
+msgstr ""
+
+msgid "Empty = \"No access? Write to me\"."
+msgstr ""
+
+msgid "Login page: help link address"
+msgstr ""
+
+msgid "Empty = the contact page (when the contact form is enabled)."
+msgstr ""
+
+msgid "Album password page: ask for a user name"
+msgstr ""
+
+msgid "Off = password only (clients get just a password). On = user name and password. The login window opened from the menu always asks for both."
+msgstr ""
+
+msgid "Allow search"
+msgstr ""
+
+msgid "Show the search icon in the menu."
+msgstr ""
+
+msgid "Excerpt length"
+msgstr ""
+
+msgid "Excerpt length for news and pages lists in search page."
+msgstr ""
+
+msgid "Show tags on the image page and a tag cloud in the Archive."
+msgstr ""
+
+msgid "Exif"
+msgstr ""
+
+msgid "Show the shooting data on the image page. The metadata to show is chosen in Options > Image > Metadata."
+msgstr ""
+
+msgid "Show a map on album pages and on the image page when the images have GPS coordinates (needs the openStreetMap plugin)."
+msgstr ""
+
+msgid "Image map page"
+msgstr ""
+
+msgid "Enable the \"Image map\" page (/page/photomap) with all images that have GPS coordinates, plus its menu link. Safe for very large galleries: only the visible part of the map is loaded and nearby images are grouped on the server."
+msgstr ""
+
+msgid "Filter chips in albums"
+msgstr ""
+
+msgid "Chips with the tags of the images on the page that filter the album without reloading. Uses one extra database query per image; disable it for albums with very many images per page."
+msgstr ""
+
+msgid "Show similar images (shared tags, otherwise the same album) below the image."
+msgstr ""
+
+msgid "Use custom menu"
+msgstr ""
+
+msgid "Use the \"menu_manager\" menu named \"atelier\" instead of the standard menu."
+msgstr ""
+
+msgid "Footer statistics"
+msgstr ""
+
+msgid "Show GPS and description statistics in the footer (a few database counts on every page; disable on very large galleries)."
+msgstr ""
+
+msgid "The colour is readable on light and dark backgrounds."
+msgstr ""
+
+msgid "The colour is too light or too dark for small text. Used instead:"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "%u image"
+msgid_plural "%u images"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""

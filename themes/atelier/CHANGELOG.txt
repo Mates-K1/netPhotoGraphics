@@ -1,0 +1,15 @@
+Atelier 1.0 (2026-11-16)
+------------------------
+First release.
+ - Home page with hero photo, stories, portfolio, about block and references.
+ - Blog (Zenpage) cards and article layout, references category.
+ - Masonry albums with filter chips, photo page with side column, similar photos, photo map.
+ - Split login / password page.
+ - Six WCAG AA colour schemes, light/dark, custom accent colour with automatic contrast fitting.
+ - Czech translation.
+
+Atelier 1.0 (2026-11-16) - česky
+ První vydání: úvodní stránka s velkou fotografií, blog a reference, masonry alba s filtrem,
+ stránka fotografie s postranním sloupcem, podobné fotografie, mapa fotografií, přihlašovací stránka
+ na dvě poloviny, šest barevných schémat (WCAG AA) se světlým a tmavým režimem, vlastní barva akcentu,
+ česká lokalizace.
