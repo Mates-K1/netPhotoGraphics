@@ -218,6 +218,9 @@ a.chip:hover, button.chip:hover { border-color: var(--accent); color: var(--acce
 .login-split__photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .login-split__photo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgb(12 9 7 / .6), rgb(12 9 7 / 0) 55%); }
 .login-split__brand { position: absolute; left: 1.5rem; bottom: 1.25rem; z-index: 1; font: 600 1.4rem/1.2 var(--font-serif); color: #fff; text-shadow: 0 1px 12px rgb(0 0 0 / .4); }
+.login-split__photo--plain { display: grid; place-items: center; background: linear-gradient(160deg, #3a302a, #1a1411); }
+.login-split__photo--plain::after { display: none; }
+.login-split__photo--plain svg { width: 72px; height: 72px; color: #fff; opacity: .35; stroke-width: 1.3; }
 .login-split__form { padding: clamp(1.75rem, 5vw, 3.25rem); display: flex; flex-direction: column; justify-content: center; }
 .login-split__eyebrow { display: flex; align-items: center; gap: .45rem; margin: 0 0 1rem; font: 600 .78rem/1.2 var(--font-sans); letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
 .login-split__title { font-size: clamp(1.8rem, 3.4vw, 2.5rem); margin-bottom: .5rem; }

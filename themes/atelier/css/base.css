@@ -85,7 +85,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2.5rem 0; }
 	border-bottom: 1px solid var(--border);
 }
 .site-header__inner { width: min(var(--container), 100% - 2 * var(--gutter)); margin: 0 auto; min-height: 68px; display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
-.site-logo { flex: 1 1 auto; min-width: 0; color: var(--text); font: 600 1.45rem/1.15 var(--font-serif); letter-spacing: -.01em; padding: .5rem 0; overflow-wrap: anywhere; }
+.site-logo { flex: 0 1 auto; color: var(--text); font: 600 1.45rem/1.15 var(--font-serif); letter-spacing: -.01em; padding: .5rem 0; overflow-wrap: break-word; text-wrap: balance; }
 .site-logo:hover { color: var(--accent); text-decoration: none; }
 .site-nav { flex: 0 1 auto; }
 
@@ -116,7 +116,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2.5rem 0; }
 .site-nav__list li ul { display: none; }
 
 @media (max-width: 960px) {
-	.site-logo { font-size: 1.25rem; }
+	.site-logo { flex: 1 1 auto; min-width: 0; font-size: 1.25rem; overflow-wrap: anywhere; }
 	.nav-toggle { display: inline-flex; }
 	.site-nav {
 		position: absolute; left: 0; right: 0; top: 100%;
