@@ -991,11 +991,9 @@ function atelier_blurData($album) {
                     $th = max(1, (int) round($h * $tw / $w));
                     $small = imagecreatetruecolor($tw, $th);
                     imagecopyresampled($small, $big, 0, 0, 0, 0, $tw, $th, $w, $h);
-                    imagedestroy($big);
                     ob_start();
                     imagejpeg($small, null, 55);
                     $jpeg = ob_get_clean();
-                    imagedestroy($small);
                 }
             }
         }

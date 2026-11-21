@@ -10,7 +10,8 @@
             <p class="article__meta">
                 <?php
                 if ($_atelier_cats) {
-                    $_c = newCategory($_atelier_cats[0]['titlelink']);
+                    $_firstCat = reset($_atelier_cats); // the array is not guaranteed to have an index 0
+                    $_c = newCategory($_firstCat['titlelink']);
                     ?><a class="article__cat" href="<?php echo html_encode($_c->getLink()); ?>"><?php echo html_encode($_c->getTitle()); ?></a> · <?php
                 }
                 ?>
