@@ -46,16 +46,6 @@
         </footer>
 
         <button type="button" class="scroll-top" hidden aria-label="<?php echo gettext('Top'); ?>"><?php echo atelier_icon('up', 22); ?></button>
-
-        <?php
-        if (npg_loggedin(ADMIN_RIGHTS)) {
-            // visible only to administrators in the page source - helps to check that the translation file is loaded
-            $atelier_loc = getOption('locale');
-            echo '<!-- atelier i18n: locale=' . html_encode((string) $atelier_loc) .
-            ' core.mo=' . (int) file_exists(USER_PLUGIN_SERVERPATH . 'locale/' . $atelier_loc . '/LC_MESSAGES/core.mo') .
-            ' sample="' . html_encode(gettext('Dark mode')) . '" -->';
-        }
-        ?>
         <?php npgFilters::apply('theme_body_close'); ?>
     </body>
 </html>
